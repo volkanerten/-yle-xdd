@@ -1,0 +1,6 @@
+{
+  "name": "TeknikXDD",
+  "description": "Kombi ve Beyaz Eşya hata kodları, parça değişimi, tamir rehberi ve yapay zeka marka tahmini teknik servis yardımcı uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
